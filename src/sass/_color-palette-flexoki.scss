@@ -1,0 +1,75 @@
+// Flexoki Color Palette
+// Source: https://stephango.com/flexoki
+// Purple and orange sourced from Flexoki's extended palette (outside ANSI 16).
+
+// Red
+$red-light: #D14D41;
+$red-dark: #AF3029;
+
+// Pink (Flexoki magenta)
+$pink-light: #CE5D97;
+$pink-dark: #A02F6F;
+
+// Purple (Flexoki extended)
+$purple-light: #8B7EC8;
+$purple-dark: #5E409D;
+
+// Blue
+$blue-light: #4385BE;
+$blue-dark: #205EA6;
+
+// Teal (Flexoki cyan)
+$teal-light: #3AA99F;
+$teal-dark: #24837B;
+
+// Green
+$green-light: #879A39;
+$green-dark: #66800B;
+
+// Yellow
+$yellow-light: #D0A215;
+$yellow-dark: #AD8301;
+
+// Orange (Flexoki extended)
+$orange-light: #DA702C;
+$orange-dark: #BC5215;
+
+// Grey (Flexoki base ramp with interpolated 50-step values where Flexoki
+// doesn't define them natively)
+$grey-050: #F2F0E5;
+$grey-100: #E6E4D9;
+$grey-150: #DAD8CE;
+$grey-200: #CECDC3;
+$grey-250: #C2C1B8;
+$grey-300: #B7B5AC;
+$grey-350: #ABA9A1;
+$grey-400: #9F9D96;
+$grey-450: #93918B;
+$grey-500: #878580;
+$grey-550: #7B7975;
+$grey-600: #6F6E69;
+$grey-650: #63625E;
+$grey-700: #575653;
+$grey-750: #4B4A47;
+$grey-800: #403E3C;
+$grey-850: #343331;
+$grey-900: #282726;
+$grey-950: #1C1B1A;
+
+// White (Flexoki paper)
+$white: #FFFCF0;
+
+// Black
+$black: #100F0F;
+
+// Button
+$button-close: #AF3029;
+$button-max: #66800B;
+$button-min: #AD8301;
+
+// Link
+$links: #4385BE;
+
+// Theme
+$default-light: $blue-light;
+$default-dark: $blue-dark;
